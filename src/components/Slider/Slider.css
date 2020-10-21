@@ -1,0 +1,20 @@
+.banner-text h1{
+    font-family: 'Russo One', sans-serif;
+    font-size:70px;
+}
+.banner-text p{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5%;
+}
+
+.slider{
+    height:420px;
+    border-radius: 30px;
+    
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: #fff;
+}
+.slider:hover{
+    border: 2px solid rgb(24, 131, 253);
+}

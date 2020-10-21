@@ -1,0 +1,11 @@
+.HomeBackground{
+    background-image: url("../images/Image/home.png");
+    background-repeat:no-repeat;
+    /* background-position:cover; */
+    background-size: cover;
+    background-position: absolute;
+}
+.main-content{
+    padding-top:200px;
+
+}
